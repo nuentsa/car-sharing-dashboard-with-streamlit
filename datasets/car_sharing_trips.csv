@@ -1,0 +1,101 @@
+trip_id,pickup_time,dropoff_time,pickup_lat,pickup_lon,dropoff_lat,dropoff_lon,distance,revenue,car_brand,car_model,car_year,car_city,customer_name,customer_email,customer_city
+1,2024-02-04 15:56:00,2024-02-04 16:51:00,39.135484,-111.28289,41.07854,-116.553465,19.6,51.21,Chevrolet,Malibu,2022,San Francisco,Robert Brown,robertb@example.com,Houston
+2,2024-02-02 21:02:00,2024-02-02 21:44:00,33.84689,-97.231425,37.693403,-87.599192,17.5,52.29,Ford,Focus,2019,Chicago,John Doe,johndoe@example.com,New York
+3,2024-02-04 13:14:00,2024-02-04 13:35:00,29.235478,-79.491481,39.487501,-81.144286,7.3,12.14,Nissan,Altima,2023,Houston,Robert Brown,robertb@example.com,Houston
+4,2024-02-01 14:31:00,2024-02-01 14:39:00,35.166927,-113.040305,29.167846,-81.938855,15.9,34.4,Toyota,Corolla,2020,New York,Robert Brown,robertb@example.com,Houston
+5,2024-02-03 02:47:00,2024-02-03 03:27:00,30.188383,-91.174291,33.057483,-88.187638,13.6,36.84,Honda,Civic,2021,Los Angeles,Emily Davis,emilyd@example.com,San Francisco
+6,2024-02-02 23:48:00,2024-02-03 00:31:00,30.764691,-121.51311,34.894988,-82.934302,6.6,9.97,Nissan,Altima,2023,Houston,Jane Smith,janesmith@example.com,Los Angeles
+7,2024-02-05 08:24:00,2024-02-05 08:51:00,39.352646,-87.506091,34.671761,-121.917202,12.6,19.33,Toyota,Corolla,2020,New York,Jane Smith,janesmith@example.com,Los Angeles
+8,2024-02-03 20:31:00,2024-02-03 21:05:00,30.332392,-112.924644,41.491029,-74.480846,12.4,29.62,Toyota,Corolla,2020,New York,Emily Davis,emilyd@example.com,San Francisco
+9,2024-02-03 11:57:00,2024-02-03 12:41:00,34.904686,-90.310243,37.935309,-120.177375,8.8,22.53,Nissan,Altima,2023,Houston,John Doe,johndoe@example.com,New York
+10,2024-02-03 00:04:00,2024-02-03 00:18:00,30.713057,-115.676112,41.220719,-83.695557,6.7,18.56,Ford,Focus,2019,Chicago,Jane Smith,janesmith@example.com,Los Angeles
+11,2024-02-04 20:51:00,2024-02-04 21:17:00,36.917324,-104.311366,33.404335,-81.881024,3.4,9.48,Chevrolet,Malibu,2022,San Francisco,Robert Brown,robertb@example.com,Houston
+12,2024-02-02 09:31:00,2024-02-02 09:37:00,35.185544,-112.133375,33.092357,-117.9582,17.5,33.33,Ford,Focus,2019,Chicago,John Doe,johndoe@example.com,New York
+13,2024-02-01 18:50:00,2024-02-01 19:16:00,41.119314,-75.713259,37.795156,-106.330836,9.2,18.73,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+14,2024-02-03 00:26:00,2024-02-03 00:46:00,39.37413,-77.296098,32.725804,-104.205727,17.6,35.46,Ford,Focus,2019,Chicago,John Doe,johndoe@example.com,New York
+15,2024-02-02 17:59:00,2024-02-02 18:53:00,35.025006,-97.774304,36.915608,-120.955589,7.0,20.98,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+16,2024-02-03 13:38:00,2024-02-03 14:25:00,29.860993,-107.883819,35.333567,-94.461307,11.0,24.77,Toyota,Corolla,2020,New York,Robert Brown,robertb@example.com,Houston
+17,2024-02-04 15:15:00,2024-02-04 15:56:00,41.862508,-103.344175,29.149051,-104.114846,9.0,25.1,Toyota,Corolla,2020,New York,Robert Brown,robertb@example.com,Houston
+18,2024-02-03 15:27:00,2024-02-03 16:03:00,34.355397,-114.573514,29.844141,-73.979736,19.8,31.33,Nissan,Altima,2023,Houston,Robert Brown,robertb@example.com,Houston
+19,2024-02-02 17:38:00,2024-02-02 18:06:00,38.714093,-117.068066,30.834613,-75.216091,16.7,43.88,Ford,Focus,2019,Chicago,John Doe,johndoe@example.com,New York
+20,2024-02-02 01:03:00,2024-02-02 01:19:00,29.784031,-79.252459,35.658925,-114.223687,17.7,47.64,Honda,Civic,2021,Los Angeles,Robert Brown,robertb@example.com,Houston
+21,2024-02-04 12:26:00,2024-02-04 13:22:00,31.03695,-122.291927,39.147463,-88.259908,10.0,29.84,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+22,2024-02-05 08:10:00,2024-02-05 08:20:00,32.960697,-76.410338,29.30674,-90.08666,12.8,31.9,Chevrolet,Malibu,2022,San Francisco,Jane Smith,janesmith@example.com,Los Angeles
+23,2024-02-02 15:25:00,2024-02-02 15:37:00,36.656257,-116.831847,41.339153,-104.12363,9.9,21.41,Chevrolet,Malibu,2022,San Francisco,Robert Brown,robertb@example.com,Houston
+24,2024-02-01 17:00:00,2024-02-01 17:05:00,29.657932,-79.987315,32.616927,-75.82139,9.5,19.3,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+25,2024-02-01 20:23:00,2024-02-01 21:16:00,41.131943,-97.231526,39.47962,-75.642325,17.5,36.49,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+26,2024-02-03 09:38:00,2024-02-03 10:13:00,31.893562,-81.745728,40.075543,-98.2636,3.2,8.19,Chevrolet,Malibu,2022,San Francisco,Jane Smith,janesmith@example.com,Los Angeles
+27,2024-02-04 04:01:00,2024-02-04 04:53:00,41.95633,-87.394684,33.071797,-91.393869,14.7,24.0,Nissan,Altima,2023,Houston,Robert Brown,robertb@example.com,Houston
+28,2024-02-04 16:24:00,2024-02-04 16:57:00,33.7686,-118.308126,30.031108,-87.259095,7.3,11.0,Ford,Focus,2019,Chicago,Robert Brown,robertb@example.com,Houston
+29,2024-02-02 12:13:00,2024-02-02 12:50:00,33.546769,-87.769678,31.451108,-82.800895,9.4,24.21,Ford,Focus,2019,Chicago,Robert Brown,robertb@example.com,Houston
+30,2024-02-05 00:17:00,2024-02-05 00:57:00,29.613158,-121.47175,41.220322,-119.935906,9.8,28.43,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+31,2024-02-04 06:33:00,2024-02-04 06:53:00,38.922674,-114.522806,34.078371,-77.211376,4.9,14.45,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+32,2024-02-01 14:46:00,2024-02-01 14:58:00,29.47239,-73.744614,31.704261,-80.607399,4.7,10.74,Nissan,Altima,2023,Houston,Mike Johnson,mikej@example.com,Chicago
+33,2024-02-01 22:27:00,2024-02-01 22:51:00,36.876534,-95.555648,32.500841,-122.312358,19.7,57.12,Toyota,Corolla,2020,New York,Robert Brown,robertb@example.com,Houston
+34,2024-02-04 13:40:00,2024-02-04 14:25:00,39.163964,-84.14573,35.850214,-115.449126,3.4,7.07,Toyota,Corolla,2020,New York,Jane Smith,janesmith@example.com,Los Angeles
+35,2024-02-02 02:55:00,2024-02-02 03:20:00,39.270466,-86.803846,30.701048,-95.640517,3.3,5.2,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+36,2024-02-04 02:49:00,2024-02-04 02:54:00,41.227066,-84.476744,34.18502,-99.946852,16.9,48.75,Nissan,Altima,2023,Houston,Mike Johnson,mikej@example.com,Chicago
+37,2024-02-02 16:03:00,2024-02-02 16:45:00,31.332122,-74.315674,40.646332,-99.090786,7.8,21.11,Nissan,Altima,2023,Houston,John Doe,johndoe@example.com,New York
+38,2024-02-03 02:50:00,2024-02-03 03:11:00,38.54735,-105.730983,36.631256,-76.953891,4.9,14.7,Chevrolet,Malibu,2022,San Francisco,Robert Brown,robertb@example.com,Houston
+39,2024-02-04 18:46:00,2024-02-04 19:23:00,32.576027,-112.690203,30.865393,-105.244884,2.9,5.25,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+40,2024-02-05 05:43:00,2024-02-05 06:07:00,34.489406,-112.446517,32.421693,-84.927148,15.8,25.1,Nissan,Altima,2023,Houston,Jane Smith,janesmith@example.com,Los Angeles
+41,2024-02-04 13:57:00,2024-02-04 14:42:00,40.837822,-83.694396,40.122514,-104.978247,8.4,13.56,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+42,2024-02-03 19:09:00,2024-02-03 19:22:00,32.159571,-100.062367,30.551545,-110.575117,16.1,38.44,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+43,2024-02-04 21:18:00,2024-02-04 22:00:00,29.059353,-92.062157,41.931828,-75.969475,20.0,51.92,Ford,Focus,2019,Chicago,Jane Smith,janesmith@example.com,Los Angeles
+44,2024-02-01 09:10:00,2024-02-01 09:44:00,29.019807,-115.378056,35.581653,-83.068442,17.0,41.48,Chevrolet,Malibu,2022,San Francisco,John Doe,johndoe@example.com,New York
+45,2024-02-03 10:21:00,2024-02-03 10:41:00,30.537744,-100.763773,34.655523,-118.055996,15.7,26.46,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+46,2024-02-02 23:03:00,2024-02-02 23:46:00,34.892066,-109.14666,35.953615,-78.985814,16.4,35.96,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+47,2024-02-01 17:16:00,2024-02-01 17:59:00,32.845659,-121.395251,34.990025,-106.230309,5.3,9.31,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+48,2024-02-02 09:46:00,2024-02-02 10:22:00,41.953998,-96.626586,41.830653,-105.90274,14.7,31.65,Ford,Focus,2019,Chicago,John Doe,johndoe@example.com,New York
+49,2024-02-05 07:07:00,2024-02-05 07:24:00,31.368624,-98.465738,40.520568,-78.21523,16.2,43.4,Ford,Focus,2019,Chicago,Mike Johnson,mikej@example.com,Chicago
+50,2024-02-03 01:20:00,2024-02-03 01:35:00,30.131015,-78.318459,31.906838,-91.278799,15.0,34.89,Nissan,Altima,2023,Houston,Jane Smith,janesmith@example.com,Los Angeles
+51,2024-02-03 18:10:00,2024-02-03 18:26:00,33.786622,-86.296157,31.822873,-81.333999,19.3,29.94,Ford,Focus,2019,Chicago,Jane Smith,janesmith@example.com,Los Angeles
+52,2024-02-01 08:41:00,2024-02-01 09:33:00,41.590557,-76.469365,36.975795,-73.154458,8.8,24.34,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+53,2024-02-01 23:59:00,2024-02-02 00:22:00,40.157606,-113.346718,32.744323,-95.035539,17.2,46.23,Honda,Civic,2021,Los Angeles,John Doe,johndoe@example.com,New York
+54,2024-02-01 19:28:00,2024-02-01 20:07:00,36.868406,-101.491647,30.819139,-78.160214,18.5,43.83,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+55,2024-02-03 02:12:00,2024-02-03 02:17:00,32.560695,-94.303351,40.392526,-113.573203,7.1,12.05,Nissan,Altima,2023,Houston,John Doe,johndoe@example.com,New York
+56,2024-02-04 07:42:00,2024-02-04 08:37:00,29.123788,-96.066899,40.967916,-102.065278,19.0,42.43,Honda,Civic,2021,Los Angeles,Robert Brown,robertb@example.com,Houston
+57,2024-02-01 12:08:00,2024-02-01 12:22:00,37.989755,-83.436885,36.890388,-75.080086,10.0,29.04,Honda,Civic,2021,Los Angeles,Robert Brown,robertb@example.com,Houston
+58,2024-02-02 11:39:00,2024-02-02 12:23:00,34.031183,-111.266847,37.655186,-76.8246,15.9,40.28,Honda,Civic,2021,Los Angeles,John Doe,johndoe@example.com,New York
+59,2024-02-01 09:52:00,2024-02-01 09:59:00,38.072948,-113.243036,41.381803,-78.769409,16.6,49.06,Ford,Focus,2019,Chicago,Robert Brown,robertb@example.com,Houston
+60,2024-02-04 09:54:00,2024-02-04 10:05:00,38.051409,-88.908354,29.095164,-91.122805,10.7,27.46,Nissan,Altima,2023,Houston,Robert Brown,robertb@example.com,Houston
+61,2024-02-04 21:20:00,2024-02-04 21:48:00,33.045536,-122.591097,39.450677,-85.367647,5.9,10.53,Toyota,Corolla,2020,New York,Robert Brown,robertb@example.com,Houston
+62,2024-02-02 15:08:00,2024-02-02 15:46:00,39.4441,-76.508537,40.35653,-87.503674,16.0,36.07,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+63,2024-02-02 14:34:00,2024-02-02 15:28:00,40.132618,-92.043822,32.876826,-110.418425,13.6,40.79,Honda,Civic,2021,Los Angeles,John Doe,johndoe@example.com,New York
+64,2024-02-02 02:44:00,2024-02-02 03:30:00,31.766013,-77.825876,34.808481,-113.919214,4.9,13.94,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+65,2024-02-03 21:20:00,2024-02-03 21:38:00,40.958372,-98.98852,38.44036,-109.028649,5.8,13.4,Chevrolet,Malibu,2022,San Francisco,John Doe,johndoe@example.com,New York
+66,2024-02-01 06:12:00,2024-02-01 06:52:00,33.227506,-86.802498,40.793533,-107.182134,14.5,30.46,Nissan,Altima,2023,Houston,Mike Johnson,mikej@example.com,Chicago
+67,2024-02-04 18:46:00,2024-02-04 19:07:00,31.35499,-85.578125,34.748176,-121.722412,18.4,44.58,Ford,Focus,2019,Chicago,Jane Smith,janesmith@example.com,Los Angeles
+68,2024-02-05 05:30:00,2024-02-05 06:05:00,41.070068,-79.006046,30.770523,-119.875347,10.0,23.13,Nissan,Altima,2023,Houston,Jane Smith,janesmith@example.com,Los Angeles
+69,2024-02-01 07:06:00,2024-02-01 07:48:00,33.467625,-102.980842,30.691345,-76.331854,16.6,40.92,Honda,Civic,2021,Los Angeles,Jane Smith,janesmith@example.com,Los Angeles
+70,2024-02-02 07:39:00,2024-02-02 08:24:00,29.949857,-80.676629,34.797794,-121.239196,5.5,9.1,Ford,Focus,2019,Chicago,John Doe,johndoe@example.com,New York
+71,2024-02-03 15:15:00,2024-02-03 16:03:00,38.937965,-94.274281,29.050516,-114.57962,3.1,8.57,Honda,Civic,2021,Los Angeles,Jane Smith,janesmith@example.com,Los Angeles
+72,2024-02-04 17:36:00,2024-02-04 17:43:00,32.960356,-92.233596,33.805517,-78.198412,13.3,23.63,Honda,Civic,2021,Los Angeles,John Doe,johndoe@example.com,New York
+73,2024-02-03 21:58:00,2024-02-03 22:45:00,35.361706,-120.428699,32.375573,-88.392493,12.8,32.43,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+74,2024-02-02 18:56:00,2024-02-02 19:48:00,40.5324,-76.795513,33.635615,-92.058187,13.0,31.28,Toyota,Corolla,2020,New York,Mike Johnson,mikej@example.com,Chicago
+75,2024-02-04 03:57:00,2024-02-04 04:10:00,41.066286,-119.63895,34.559394,-106.798529,7.1,19.99,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+76,2024-02-02 10:23:00,2024-02-02 10:58:00,37.52748,-100.016585,41.255722,-119.480583,19.8,37.67,Nissan,Altima,2023,Houston,John Doe,johndoe@example.com,New York
+77,2024-02-03 12:37:00,2024-02-03 13:00:00,29.350028,-115.564488,39.65659,-115.873112,19.1,32.86,Ford,Focus,2019,Chicago,Mike Johnson,mikej@example.com,Chicago
+78,2024-02-03 07:26:00,2024-02-03 08:19:00,33.851802,-96.965029,41.494065,-90.510189,5.2,10.81,Ford,Focus,2019,Chicago,Mike Johnson,mikej@example.com,Chicago
+79,2024-02-04 02:40:00,2024-02-04 02:45:00,32.949125,-80.066463,39.938132,-90.436774,11.3,28.97,Ford,Focus,2019,Chicago,Emily Davis,emilyd@example.com,San Francisco
+80,2024-02-04 06:35:00,2024-02-04 07:27:00,30.355983,-115.117358,40.391903,-89.685308,20.0,40.23,Ford,Focus,2019,Chicago,Jane Smith,janesmith@example.com,Los Angeles
+81,2024-02-05 02:15:00,2024-02-05 02:32:00,39.62307,-120.766121,41.215533,-79.681733,2.0,5.33,Toyota,Corolla,2020,New York,Jane Smith,janesmith@example.com,Los Angeles
+82,2024-02-01 14:30:00,2024-02-01 15:30:00,32.404913,-79.162275,38.518755,-121.254183,8.7,16.88,Nissan,Altima,2023,Houston,Emily Davis,emilyd@example.com,San Francisco
+83,2024-02-03 16:18:00,2024-02-03 16:30:00,36.319173,-102.052043,32.972784,-99.05634,3.1,5.3,Honda,Civic,2021,Los Angeles,Emily Davis,emilyd@example.com,San Francisco
+84,2024-02-01 12:01:00,2024-02-01 12:45:00,32.095771,-73.391203,31.97204,-110.829584,12.9,28.65,Nissan,Altima,2023,Houston,Jane Smith,janesmith@example.com,Los Angeles
+85,2024-02-03 00:57:00,2024-02-03 01:35:00,41.973318,-99.927841,37.125441,-116.64673,13.1,27.99,Honda,Civic,2021,Los Angeles,John Doe,johndoe@example.com,New York
+86,2024-02-02 23:07:00,2024-02-02 23:14:00,36.333567,-113.437669,40.489477,-99.809849,6.5,10.41,Toyota,Corolla,2020,New York,Jane Smith,janesmith@example.com,Los Angeles
+87,2024-02-03 04:19:00,2024-02-03 04:43:00,41.016232,-108.2761,36.244847,-99.803785,15.3,24.92,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+88,2024-02-02 01:40:00,2024-02-02 01:47:00,39.324711,-93.711529,35.916607,-93.554696,13.5,28.45,Honda,Civic,2021,Los Angeles,Mike Johnson,mikej@example.com,Chicago
+89,2024-02-04 10:51:00,2024-02-04 11:24:00,32.322221,-119.502849,30.819584,-94.056443,11.6,26.85,Toyota,Corolla,2020,New York,Jane Smith,janesmith@example.com,Los Angeles
+90,2024-02-01 18:59:00,2024-02-01 19:55:00,41.374645,-95.946212,38.748753,-114.809527,15.8,47.39,Toyota,Corolla,2020,New York,Jane Smith,janesmith@example.com,Los Angeles
+91,2024-02-03 16:35:00,2024-02-03 16:51:00,33.977187,-120.175205,34.890525,-113.120751,10.9,18.31,Ford,Focus,2019,Chicago,Robert Brown,robertb@example.com,Houston
+92,2024-02-05 05:23:00,2024-02-05 05:44:00,41.54557,-74.285398,29.64698,-85.068293,7.0,12.26,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+93,2024-02-03 12:05:00,2024-02-03 12:38:00,38.551737,-92.641036,31.794469,-82.008794,6.1,18.22,Toyota,Corolla,2020,New York,Jane Smith,janesmith@example.com,Los Angeles
+94,2024-02-01 07:49:00,2024-02-01 08:19:00,39.967703,-106.949558,29.527097,-89.051213,11.9,32.89,Chevrolet,Malibu,2022,San Francisco,Robert Brown,robertb@example.com,Houston
+95,2024-02-01 15:57:00,2024-02-01 16:14:00,39.457147,-122.633575,39.281916,-81.809969,7.0,13.92,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+96,2024-02-05 01:33:00,2024-02-05 01:41:00,37.798079,-84.211186,30.678954,-86.343611,14.9,29.41,Chevrolet,Malibu,2022,San Francisco,Jane Smith,janesmith@example.com,Los Angeles
+97,2024-02-02 08:50:00,2024-02-02 09:06:00,30.094672,-98.141869,29.191165,-117.177268,10.7,21.66,Ford,Focus,2019,Chicago,Robert Brown,robertb@example.com,Houston
+98,2024-02-04 09:05:00,2024-02-04 09:19:00,29.306617,-99.921951,33.895867,-94.283549,8.4,16.36,Toyota,Corolla,2020,New York,John Doe,johndoe@example.com,New York
+99,2024-02-05 01:55:00,2024-02-05 02:44:00,29.736684,-97.584414,36.18599,-108.939695,16.5,37.01,Chevrolet,Malibu,2022,San Francisco,Emily Davis,emilyd@example.com,San Francisco
+100,2024-02-02 15:22:00,2024-02-02 16:02:00,41.900846,-108.35581,41.856462,-79.617679,4.5,12.34,Honda,Civic,2021,Los Angeles,Robert Brown,robertb@example.com,Houston
